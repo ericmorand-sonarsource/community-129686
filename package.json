@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@typescript-eslint/parser": "^8.26.0",
+    "eslint-plugin-react-hooks": "5.2.0"
+  }
+}
